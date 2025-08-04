@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido como parte do desafio **#boraCodar** da [Rocketseat](https://www.rocketseat.com.br/). O desafio consistia em criar uma página de produto com um visual moderno e interações animadas, como a rotação de um sofá em 360°.
 
-![Preview do Projeto](./assets/sofa.jpg)
+![Preview do Projeto](./assets/sofa%20rosa.PNG)
 
 ## 🧠 Funcionalidade
 
